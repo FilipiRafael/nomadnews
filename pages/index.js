@@ -37,6 +37,7 @@ function Home() {
                 fontSize: "1.5rem",
                 cursor: "pointer",
                 outline: "none",
+                display: "block",
                 '&:hover': {
                   backgroundColor: 'blue'
                 }
