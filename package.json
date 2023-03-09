@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "prepare": "husky install"
+    "build": "next build"
   },
   "author": "",
   "license": "MIT",
