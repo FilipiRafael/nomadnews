@@ -1,6 +1,8 @@
+import { MarryMe } from "../components/marryme";
+
 function Home() {
   return (
-    <h1>Home</h1>
+    <MarryMe />
   )
 };
 
